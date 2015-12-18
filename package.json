@@ -1,6 +1,6 @@
 {
   "name": "web-midi-api-snippets",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Web MIDI API Snippets for Atom",
   "repository": "https://github.com/njenkins/atom-webmidi-snippets",
   "license": "MIT",
