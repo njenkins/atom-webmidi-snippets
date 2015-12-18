@@ -1,5 +1,7 @@
-# Web MIDI API Snippets for [ATOM](http://atom.io)
+# Web MIDI API Snippets for Atom
+A few snippets for working with the [Web MIDI API](http://www.w3.org/TR/webmidi/) within [Atom](http://atom.io)
 ## requestMIDIAccess
+### [MIDIRA]
 ```js
 navigator.requestMIDIAccess().then(onSuccessCallback,onErrorCallback);
 ```  
