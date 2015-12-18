@@ -1,4 +1,4 @@
 '.source.js':
    'MIDIOutput Clear':
      'prefix': 'midioc'
-     'body': 'MIDIOutput.clear()'
+     'body': '${1:MIDIOutput}.clear()'

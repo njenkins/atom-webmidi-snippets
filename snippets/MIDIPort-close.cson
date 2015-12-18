@@ -1,4 +1,4 @@
 '.source.js':
    'MIDIPort Close':
      'prefix': 'midipc'
-     'body': 'MIDIPort.close()'
+     'body': '${1:MIDIPort}.close()'

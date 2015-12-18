@@ -1,4 +1,4 @@
 '.source.js':
    'MIDIOutput Send':
      'prefix': 'midios'
-     'body': 'MIDIOutput.send(${1:data}, ${2:timestamp});'
+     'body': '${1:MIDIOutput}.send(${2:data}, ${3:timestamp});'

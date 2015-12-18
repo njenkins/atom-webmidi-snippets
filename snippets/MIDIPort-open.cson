@@ -1,4 +1,4 @@
 '.source.js':
    'MIDIPort Open':
      'prefix': 'midipo'
-     'body': 'MIDIPort.open()'
+     'body': '${1:MIDIPort}.open()'
