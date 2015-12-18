@@ -1,0 +1,4 @@
+'.source.js':
+   'MIDIOutput Send':
+     'prefix': 'midios'
+     'body': 'MIDIOutput.send(${1:data}, ${2:timestamp});'

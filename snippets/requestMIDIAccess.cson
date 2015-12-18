@@ -1,0 +1,4 @@
+'.source.js':
+   'requestMidiAccess':
+     'prefix': 'midira'
+     'body': 'navigator.requestMIDIAccess().then(${1:onSuccessCallback}, ${2:onErrorCallback});'
