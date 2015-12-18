@@ -1,9 +1,9 @@
 # Web MIDI API Snippets for Atom
 A few snippets for working with the [Web MIDI API](http://www.w3.org/TR/webmidi/) within [Atom](http://atom.io)
 
-# Installation instructions
+## Installation instructions
 Go to Atom > File > Settings then search for MIDI in the Packages tab. Once found, install
-# Development
+## Development
 
 ```js
 $ cd ~/.atom/packages
