@@ -4,6 +4,11 @@
   "description": "Web MIDI API Snippets for Atom",
   "repository": "https://github.com/njenkins/atom-webmidi-snippets",
   "license": "MIT",
+  "keywords": [
+    "javascript",
+    "audio",
+    "midi"
+  ],
   "engines": {
     "atom": ">0.50.0"
   }
