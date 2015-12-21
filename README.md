@@ -16,27 +16,27 @@ $ apm link
 ## requestMIDIAccess
 ### [midira]
 ```js
-navigator.requestMIDIAccess().then(onSuccessCallback,onErrorCallback);
+navigator.requestMIDIAccess().then(${1:onSuccessCallback}, ${2:onErrorCallback});
 ```  
 ## MIDIOutput
 ### send
 #### [midios]
 ```js
-MIDIOutput.send(data, timestamp);
+${1:MIDIOutput}.send(${2:data}, ${3:timestamp});
 ```
 ### clear
 #### [midioc]
 ```js
-MIDIOutput.clear();
+${1:MIDIOutput}.clear();
 ```
 ## MIDIPort
 ### open
 #### [midipo]
 ```js
-MIDIPort.open();
+${1:MIDIPort}.open();
 ```
 ### close
 #### [midipc]
 ```js
-MIDIPort.close();
+${1:MIDIPort}.close();
 ```
