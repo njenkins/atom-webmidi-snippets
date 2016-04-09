@@ -17,7 +17,7 @@ $ apm link
 ### [midira]
 ```js
 navigator.requestMIDIAccess().then(${1:onSuccessCallback}, ${2:onErrorCallback});
-```  
+```
 ## MIDIOutput
 ### send
 #### [midios]
