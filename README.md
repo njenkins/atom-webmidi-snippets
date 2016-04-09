@@ -1,4 +1,8 @@
 # Web MIDI API Snippets for Atom
+
+[![Build Status](https://travis-ci.org/njenkins/atom-webmidi-snippets.svg?branch=master)](https://travis-ci.org/njenkins/atom-webmidi-snippets)
+
+
 A few snippets for working with the [Web MIDI API](http://www.w3.org/TR/webmidi/) within [Atom](http://atom.io)
 
 ## Installation instructions
